@@ -1,6 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+ 	<url>
+	 <loc>https://123movie.netlify.app/</loc>
+    <xhtml:link
+               rel="alternate"
+               hreflang="en-AU" 
+               href="https://123movie.netlify.app/"/>
+    </url>
   <url>
     <loc>https://123movie.netlify.app/</loc>
     <xhtml:link
@@ -20,13 +27,6 @@
     <xhtml:link
                rel="alternate"
                hreflang="en-CA" 
-               href="https://123movie.netlify.app/"/>
-    </url>
-	<url>
-	 <loc>https://123movie.netlify.app/</loc>
-    <xhtml:link
-               rel="alternate"
-               hreflang="en-AU" 
                href="https://123movie.netlify.app/"/>
     </url>
 	<url>
@@ -57,10 +57,50 @@
                hreflang="en-NO" 
                href="https://123movie.netlify.app/"/>
     </url>
-	<url>
+<url>
 	<loc>https://123movie.netlify.app/</loc>
 	<lastmod>2022-03-21T17:54:32+01:00</lastmod>
 	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://123movie.netlify.app/2022/03/new-york-homicide-2022-full-movie/</loc>
+	<lastmod>2022-03-21T17:54:32+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://123movie.netlify.app/2022/03/the-long-night-2022-full-movie/</loc>
+	<lastmod>2022-03-21T17:54:32+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://123movie.netlify.app/2022/03/the-triangle-2022-full-movie/</loc>
+	<lastmod>2022-03-21T17:54:32+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://123movie.netlify.app/2022/03/upload-2022-season-2/</loc>
+	<lastmod>2022-03-21T17:54:32+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://123movie.netlify.app/2022/03/from-2022-full-movie/</loc>
+	<lastmod>2022-03-21T17:54:32+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://123movie.netlify.app/2022/03/dragon-knight-2022-full-movie/</loc>
+	<lastmod>2022-03-21T17:54:32+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://123movie.netlify.app/2022/03/the-lost-city-2022-full-movie/</loc>
+	<lastmod>2022-03-21T17:54:32+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://123movie.netlify.app/2022/03/radhe-shyam-2022-full-movie/</loc>
+	<lastmod>2022-03-21T17:54:32+01:00</lastmod>
+	<priority>0.8</priority>
 </url>
 <url>
 	<loc>https://123movie.netlify.app/2022/03/the-institute-2022-full-movie/</loc>
@@ -468,7 +508,7 @@
 	<priority>0.8</priority>
 </url>
 <url>
-	<loc>https://123movie.netlify.app/2022/01/home-team-2022-hindi-dubbed-full-movie/index.html</loc>
+	<loc>https://123movie.netlify.app/2022/01/home-team-2022-hindi-dubbed-full-movie/</loc>
 	<lastmod>2022-03-21T17:54:32+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
@@ -478,7 +518,7 @@
 	<priority>0.8</priority>
 </url>
 <url>
-	<loc>https://123movie.netlify.app/2022/01/confession-2022-full-movie/index.html</loc>
+	<loc>https://123movie.netlify.app/2022/01/confession-2022-full-movie/</loc>
 	<lastmod>2022-03-21T17:54:32+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
@@ -493,7 +533,7 @@
 	<priority>0.8</priority>
 </url>
 <url>
-	<loc>https://123movie.netlify.app/2022/01/the-wall-climb-for-gold-2022-full-movie/index.html</loc>
+	<loc>https://123movie.netlify.app/2022/01/the-wall-climb-for-gold-2022-full-movie/</loc>
 	<lastmod>2022-03-21T17:54:32+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
@@ -548,7 +588,7 @@
 	<priority>0.8</priority>
 </url>
 <url>
-	<loc>https://123movie.netlify.app/2022/01/badava-rascal-2021-full-movie/index.html</loc>
+	<loc>https://123movie.netlify.app/2022/01/badava-rascal-2021-full-movie/</loc>
 	<lastmod>2022-03-21T17:54:32+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
@@ -603,12 +643,12 @@
 	<priority>0.8</priority>
 </url>
 <url>
-	<loc>https://123movie.netlify.app/2022/01/the-silent-sea-2021-season-1-complete/index.html</loc>
+	<loc>https://123movie.netlify.app/2022/01/the-silent-sea-2021-season-1-complete/</loc>
 	<lastmod>2022-03-21T17:54:32+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
-	<loc>https://123movie.netlify.app/2022/01/hard-hit-2021-full-movie/index.html</loc>
+	<loc>https://123movie.netlify.app/2022/01/hard-hit-2021-full-movie/</loc>
 	<lastmod>2022-03-21T17:54:32+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
@@ -678,12 +718,12 @@
 	<priority>0.8</priority>
 </url>
 <url>
-	<loc>https://123movie.netlify.app/2021/12/atrangi-re-2021-full-movie-nyy1m/index.html</loc>
+	<loc>https://123movie.netlify.app/2021/12/atrangi-re-2021-full-movie-nyy1m/</loc>
 	<lastmod>2022-03-21T17:54:32+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
-	<loc>https://123movie.netlify.app/2021/12/420-ipc-2021-full-movie-kld5y/index.html</loc>
+	<loc>https://123movie.netlify.app/2021/12/420-ipc-2021-full-movie-kld5y/</loc>
 	<lastmod>2022-03-21T17:54:32+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
@@ -838,37 +878,37 @@
 	<priority>0.8</priority>
 </url>
 <url>
-	<loc>https://123movie.netlify.app/2021/09/malibu-high-1979-full-movie/index.html</loc>
+	<loc>https://123movie.netlify.app/2021/09/malibu-high-1979-full-movie/</loc>
 	<lastmod>2022-03-21T17:54:32+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
-	<loc>https://123movie.netlify.app/2021/03/720-once-a-week-2018-full-movie/index.html</loc>
+	<loc>https://123movie.netlify.app/2021/03/720-once-a-week-2018-full-movie/</loc>
 	<lastmod>2022-03-21T17:54:32+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
-	<loc>https://123movie.netlify.app/2021/03/in-the-realm-of-the-senses-1976-full-movie/index.html</loc>
+	<loc>https://123movie.netlify.app/2021/03/in-the-realm-of-the-senses-1976-full-movie/</loc>
 	<lastmod>2022-03-21T17:54:32+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
-	<loc>https://123movie.netlify.app/2020/10/paradise-z-2020-full-movie/index.html</loc>
+	<loc>https://123movie.netlify.app/2020/10/paradise-z-2020-full-movie/</loc>
 	<lastmod>2022-03-21T17:54:32+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
-	<loc>https://123movie.netlify.app/2020/09/it-feels-so-good-2019-full-movie/index.html</loc>
+	<loc>https://123movie.netlify.app/2020/09/it-feels-so-good-2019-full-movie/</loc>
 	<lastmod>2022-03-21T17:54:32+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
-	<loc>https://123movie.netlify.app/2020/08/vampyres-2015-full-movie/index.html</loc>
+	<loc>https://123movie.netlify.app/2020/08/vampyres-2015-full-movie/</loc>
 	<lastmod>2022-03-21T17:54:32+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
 <url>
-	<loc>https://123movie.netlify.app/2020/08/the-dallas-connection-1994-full-movie/index.html</loc>
+	<loc>https://123movie.netlify.app/2020/08/the-dallas-connection-1994-full-movie/</loc>
 	<lastmod>2022-03-21T17:54:32+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
